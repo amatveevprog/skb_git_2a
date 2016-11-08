@@ -1,0 +1,27 @@
+{
+  "name": "skb2a",
+  "version": "1.0.0",
+  "description": "skillbranch task2A",
+  "main": "index.js",
+  "dependencies": {
+    "cors": "^2.8.1",
+    "express": "^4.14.0"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.18.0",
+    "babel-preset-es2015": "^6.18.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alex Matveev",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amatveevprog/skb_git_1a.git"
+  },
+  "bugs": {
+    "url": "https://github.com/amatveevprog/skb_git_1a/issues"
+  },
+  "homepage": "https://github.com/amatveevprog/skb_git_1a#readme"
+}
